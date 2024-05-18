@@ -1,0 +1,14 @@
+.contianer-main {
+    width: 100%;
+    margin: auto;
+    padding: 0 50px;
+
+}
+
+.dev {
+    border: none;
+    background: var(--gray-300, #F7FAFC);
+}
+.dle a:hover{
+    color: #fff ;
+}

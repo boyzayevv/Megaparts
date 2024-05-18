@@ -1,0 +1,10 @@
+.img-wrapper{
+    width: 500px;
+    height: 530px;
+}
+.h6 a{
+    color: #8E8E8E;
+}
+.aziz input:active{
+    border-bottom: 5px solid #54e28d ;
+}
